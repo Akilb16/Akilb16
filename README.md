@@ -1,6 +1,6 @@
 # Hi, I'm Akil 👋
 
-**DevOps Engineer | AI/MLOps Enthusiast | Cloud Infrastructure Architect**
+**Full Stack Engineer | Aspiring DevOps Engineer | AI/MLOps Enthusiast **
 
 I'm passionate about building scalable, reliable systems at the intersection of DevOps and AI. Currently focused on cloud infrastructure, workflow automation, and operational excellence through AI-powered tooling.
 
